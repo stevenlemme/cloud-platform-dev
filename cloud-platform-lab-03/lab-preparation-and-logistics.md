@@ -50,7 +50,7 @@ Cloud.oracle.com
 
 # Summary of Learning
 
--   You understand and have verified you meet the prerequisites to using the
+-   You understand and have verified you meet the prerequisites required to use the
     Oracle Cloud
 
 -   You know the initial email is important as it has the Oracle Cloud access
